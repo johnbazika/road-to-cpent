@@ -9,7 +9,7 @@
 [![CCNP](https://img.shields.io/badge/Cisco-CCNP-1BA0D7?style=for-the-badge)](https://www.cisco.com/)
 [![Made in DRC](https://img.shields.io/badge/Made%20in-DRC%20🇨🇩-3A4A5A?style=for-the-badge)]()
 
-*"Le talent n'a pas de code postal."*
+*"Talent has no zip code."*
 
 </div>
 
